@@ -39,7 +39,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://www.instagram.com/rosieaja/">
+                        <a href="https://www.youtube.com/channel/UCbVARHtWq2ewkNaAXc6QQ5w">
                             <i class="socicon socicon-youtube icon icon--xs"></i>
                         </a>
                     </li>

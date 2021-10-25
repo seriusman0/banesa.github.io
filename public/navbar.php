@@ -14,17 +14,17 @@
                 <div class="">
                     <ul class="menu-horizontal text-left">
                         <li class="dropdown">
-                            <a href="#">
+                            <a href="index.php">
                                 Home
                             </a>
                         </li>
                         <li class="dropdown">
-                            <a href="#">
+                            <a href="index.php?p=product">
                                 Product
                             </a>
                         </li>
                         <li class="dropdown">
-                            <a href="#">
+                            <a href="index.php?p=about">
                                 About
                             </a>
                         </li>
