@@ -34,8 +34,13 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#">
+                        <a href="https://www.instagram.com/rosieaja/">
                             <i class="socicon socicon-instagram icon icon--xs"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.instagram.com/rosieaja/">
+                            <i class="socicon socicon-youtube icon icon--xs"></i>
                         </a>
                     </li>
                 </ul>

@@ -14,11 +14,11 @@
                                 <img alt="background" src="img/bg/bgmain2.png" />
                             </div>
                             <div class="pos-vertical-center col-md-6 col-lg-5 pl-5">
-                                <h2>Batik Tanah Unesa.</h2>
+                                <h2>BANESA.</h2>
                                 <p class="lead">
-                                    Assalamualaikum wr.wb
+                                    Assalamualaikum wr.wb</br>
                                     Halo batik lovers…
-                                    BANESA mengucapkan Terima Kasih atas kepercayaan anda. Tidak salah pilihan anda untuk memilih produk BANESA, karena tahun 2018 telah memperoleh paten dan sejak tahun 2016 telah memperoleh HAKI.
+                                    BANESA kepanjangan dari Batik Tanah Unesa merupakan batik yang memiliki keunikan dan kekhasan menggunakan pewarna alam dari Tanah menjadikan Banesa berbeda dengan batik lainnya. <a href="#">Baca Selengkapnya</a>
                                 </p>
                             </div>
                         </div>
@@ -52,10 +52,6 @@
                                                 <h5>Produk 1 </h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -69,10 +65,6 @@
                                             <div>
                                                 <h5>Produk 2</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
                                             </div>
                                         </a>
                                     </div>
@@ -88,10 +80,6 @@
                                                 <h5>Produk 3</h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -105,11 +93,6 @@
                                             <div>
                                                 <h5>Produk 4</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-
                                             </div>
                                         </a>
                                     </div>
@@ -125,10 +108,6 @@
                                                 <h5>Produk 5</h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -142,10 +121,6 @@
                                             <div>
                                                 <h5>Produk 6</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp100.000</span>
                                             </div>
                                         </a>
                                     </div>
@@ -161,10 +136,6 @@
                                                 <h5>Produk 7</h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -178,10 +149,6 @@
                                             <div>
                                                 <h5>Produk 8</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
                                             </div>
                                         </a>
                                     </div>
@@ -197,10 +164,6 @@
                                                 <h5>Produk 9</h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -214,10 +177,6 @@
                                             <div>
                                                 <h5>Produk 10</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
                                             </div>
                                         </a>
                                     </div>
@@ -233,10 +192,6 @@
                                                 <h5>Produk 11</h5>
                                                 <span> Nama Produk</span>
                                             </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
-                                            </div>
                                         </a>
                                     </div>
                                 </div>
@@ -250,10 +205,6 @@
                                             <div>
                                                 <h5>Produk 12</h5>
                                                 <span> Nama Produk</span>
-                                            </div>
-                                            <div>
-                                                <span class="h4 inline-block type--strikethrough">Rp100.000</span>
-                                                <span class="h4 inline-block">Rp50.000</span>
                                             </div>
                                         </a>
                                     </div>
@@ -410,6 +361,28 @@
                             </li>
                         </ul>
                         <!--end accordion-->
+                    </div>
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </section>
+        <section class="cover unpad--bottom switchable switchable--switch bg--secondary text-center-xs">
+            <div class="container">
+                <div class="row align-items-center justify-content-around">
+                    <div class="col-md-6 col-lg-7 mt-0">
+                        <h1>
+                            Irma Russanti, S.Pd., M.Ds
+                        </h1>
+                        <p class="lead">
+                            Dosen D4 Tata Busana Program Vokasi Universitas Negeri Surabaya . . .
+                            <span class="block type--fine-print">
+                                <a href="about.php">Baca Selengkapnya</a>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <img alt="Image" src="img/profile/owner.png" />
                     </div>
                 </div>
                 <!--end of row-->
