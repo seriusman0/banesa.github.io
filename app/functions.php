@@ -208,7 +208,7 @@ function uploadUpdateMedia($nameBefore)
     // $namaFileBaru = uniqid();
     // $namaFileBaru .= '.';
     // $namaFileBaru .= $ekstensiGambar;
-    move_uploaded_file($tmpName, 'img/media/' . $nameBefore);
+    move_uploaded_file($tmpName, '../public/img/media/' . $nameBefore);
     return $nameBefore;
 }
 function uploadUpdate($nameBefore)
@@ -251,7 +251,7 @@ function uploadUpdate($nameBefore)
     // $namaFileBaru = uniqid();
     // $namaFileBaru .= '.';
     // $namaFileBaru .= $ekstensiGambar;
-    move_uploaded_file($tmpName, 'img/product/' . $nameBefore);
+    move_uploaded_file($tmpName, '../public/img/product/' . $nameBefore);
     return $nameBefore;
 }
 function uploadMedia()
@@ -294,7 +294,7 @@ function uploadMedia()
     $namaFileBaru = uniqid();
     $namaFileBaru .= '.';
     $namaFileBaru .= $ekstensiGambar;
-    move_uploaded_file($tmpName, 'img/media/' . $namaFileBaru);
+    move_uploaded_file($tmpName, '../public/img/media/' . $namaFileBaru);
     return $namaFileBaru;
 }
 function upload()
@@ -337,7 +337,7 @@ function upload()
     $namaFileBaru = uniqid();
     $namaFileBaru .= '.';
     $namaFileBaru .= $ekstensiGambar;
-    move_uploaded_file($tmpName, 'img/product/' . $namaFileBaru);
+    move_uploaded_file($tmpName, '../public/img/product/' . $namaFileBaru);
     return $namaFileBaru;
 }
 

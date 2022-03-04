@@ -43,7 +43,7 @@
                                 <div class="masonry__item col-md-6 col-lg-3" data-masonry-filter="<?= productCategory($r['product_category']) ?>">
                                     <div class="product">
                                         <a href="index.php?page=product&act=detail&id=<?= $r['product_id'] ?>">
-                                            <img alt="Image" src="../app/img/product/<?= $r['product_img'] ?>" />
+                                            <img alt="Image" src="img/product/<?= $r['product_img'] ?>" />
                                         </a>
                                         <a class="block" href="index.php?page=product&act=detail&id=<?= $r['product_id'] ?>">
                                             <div>
@@ -127,7 +127,7 @@
                             while ($r = mysqli_fetch_array($getImg)) {
                                 echo " 
                                 <li>
-                                    <img alt='Image' src='../app/img/product/$r[product_img]' />
+                                    <img alt='Image' src='img/product/$r[product_img]' />
                                 </li>
                             ";
                             } ?>

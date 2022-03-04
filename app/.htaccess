@@ -1,5 +1,0 @@
-
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^admin\.batikbanesa\.skom\.id$
-RewriteRule ^/?$ "https\:\/\/batikbanesa\.skom\.id\/batikbanesa\.github\.io\/app\/index\.php" [R=301,L]
-

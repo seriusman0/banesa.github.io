@@ -51,7 +51,7 @@
                                 echo " 
                                 <li class='col-md-4 col-12'>
                                     <div class='feature feature-1'>
-                                        <img alt='Image' src='../app/img/media/" . $r['media_thumb'] . "' />
+                                        <img alt='Image' src='img/media/" . $r['media_thumb'] . "' />
                                         <div class='feature__body boxed boxed--border'>
                                             <h5>" . $r['media_title'] . "</h5>
                                             <p style='overflow: hidden;white-space: nowrap;text-overflow: ellipsis;'>
