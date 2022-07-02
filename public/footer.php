@@ -23,7 +23,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="http://wa.me/6281217639883?text=<?= urlencode('Hai Admin Batik Tanah Unesa') ?>">
+                        <a href="http:///6281217639883?text=<?= urlencode('Hai Admin Batik Tanah Unesa') ?>">
                             <i class=" socicon socicon-whatsapp icon icon--xs"></i>
                         </a>
                     </li>
